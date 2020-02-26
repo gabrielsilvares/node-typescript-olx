@@ -4,7 +4,7 @@ Esse é o back-end a aplicação web olx-clone-web. É uma API RESTful criada co
 
 ## Sobre o projeto
 
-Este projeto faz parte do meu portfólio pessoa, foi desenvolvido para demonstrar os meus conhecimentos, apesar de ainda estar em processo de desenvolvimento.
+Este projeto faz parte do meu portfólio pessoal, foi desenvolvido para demonstrar os meus conhecimentos, apesar de estar em desenvolvimento.
 
 Ficarei feliz em receber qualquer feedback, dicas sobre projeto e em geral, qualquer ajuda que me fara ser um programador melhor!
 
