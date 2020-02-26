@@ -1,6 +1,6 @@
 # Olx-Clone-API
 
-Esse é o back-end a aplicação web olx-clone-web. É uma API RESTful criada com NodeJS, que fornece todas as funcionalidades e dados que o app precisa.
+Esse é o back-end a aplicação web olx-clone-web. É uma API RESTful criada com NodeJS, que fornece todas as funcionalidades e dados que a aplicação web precisa.
 
 ## Sobre o projeto
 
