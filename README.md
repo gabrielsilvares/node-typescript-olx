@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# API do olx em node.js com typescript
 
 Steps to run this project:
 
